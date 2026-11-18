@@ -2,6 +2,9 @@
 
 LaTeX language with modern tree-sitter grammar and legacy TextMate grammar.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [language-latex](https://github.com/lumine-code/language-latex), [language-bibtex](https://github.com/lumine-code/language-bibtex), and [language-log](https://github.com/lumine-code/language-log).
+
 ## Features
 
 - **Tree-sitter grammar**: LaTeX with syntax highlighting, code folding, indentation, and symbol navigation.
